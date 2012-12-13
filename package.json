@@ -1,0 +1,31 @@
+{
+  "name": "submodule",
+  "version": "0.1.1",
+  "description": "Some Submodule",
+  "categories": [
+
+  ],
+  "main": "submodule.js",
+  "github": "https://github.com/justin-winslow/submodule",
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/justin-winslow/submodule.git"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    },
+    {
+      "type": "BSD New",
+      "url": "http://opensource.org/licenses/BSD-3-Clause"
+    }
+  ],
+  "jam": {
+    "dependencies": {
+
+    }
+  }
+}
