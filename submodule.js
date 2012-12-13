@@ -4,3 +4,12 @@
  */
 
 //this is intended to demonstrate GitHub submodule functionality
+
+define([], function(){
+	return {
+		property: 'value',
+		method: function(){
+			console.log('Property: ' + this.property);
+		}
+	};
+});
