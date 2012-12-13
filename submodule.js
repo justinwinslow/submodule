@@ -9,7 +9,7 @@ define([], function(){
 	return {
 		property: 'value',
 		method: function(){
-			console.log('My Property: ' + this.property);
+			console.log('Property: ' + this.property);
 		}
 	};
 });
